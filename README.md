@@ -21,9 +21,9 @@ This is a simple login system project built using HTML. It includes login, signu
 ## 📸 Output Screenshots
 (Add your images here)
 
-![Output 1]("D:\full stack\sample\cssproject\Screenshot 2026-03-28 175249.png")
-![Output 2]("D:\full stack\sample\cssproject\Screenshot 2026-03-28 175239.png")
-![Output 3]("D:\full stack\sample\cssproject\Screenshot 2026-03-28 175306.png")
+![Output 1]("Screenshot 2026-03-28 175249.png")
+![Output 2]("Screenshot 2026-03-28 175239.png")
+![Output 3]("Screenshot 2026-03-28 175306.png")
 
 ---
 
