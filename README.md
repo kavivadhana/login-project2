@@ -19,10 +19,14 @@ This is a simple login system project built using HTML. It includes login, signu
 ---
 
 ## 📸 Output Screenshots
-(Add your images here)
 
+### Output1
 ![Output 1]("Screenshot 2026-03-28 175249.png")
+
+### Output2
 ![Output 2]("Screenshot 2026-03-28 175239.png")
+
+### Output3
 ![Output 3]("Screenshot 2026-03-28 175306.png")
 
 ---
